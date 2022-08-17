@@ -1,0 +1,15 @@
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\bin\Debug\net6.0\amolo.leave-management.application.deps.json
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\bin\Debug\net6.0\amolo.leave-management.application.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\bin\Debug\net6.0\ref\amolo.leave-management.application.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\bin\Debug\net6.0\amolo.leave-management.application.pdb
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\bin\Debug\net6.0\amolo.leave-management.domain.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\bin\Debug\net6.0\amolo.leave-management.domain.pdb
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.csproj.AssemblyReference.cache
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.AssemblyInfoInputs.cache
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.AssemblyInfo.cs
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.csproj.CoreCompileInputs.cache
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.csproj.CopyComplete
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\ref\amolo.leave-management.application.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.application\obj\Debug\net6.0\amolo.leave-management.application.pdb

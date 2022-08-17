@@ -1,0 +1,12 @@
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\bin\Debug\net6.0\amolo.leave-management.domain.deps.json
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\bin\Debug\net6.0\amolo.leave-management.domain.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\bin\Debug\net6.0\ref\amolo.leave-management.domain.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\bin\Debug\net6.0\amolo.leave-management.domain.pdb
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\amolo.leave-management.domain.csproj.AssemblyReference.cache
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\amolo.leave-management.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\amolo.leave-management.domain.AssemblyInfoInputs.cache
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\amolo.leave-management.domain.AssemblyInfo.cs
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\amolo.leave-management.domain.csproj.CoreCompileInputs.cache
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\amolo.leave-management.domain.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\ref\amolo.leave-management.domain.dll
+C:\Users\AmoloI\source\repos\amolo.leave-management\amolo.leave-management.domain\obj\Debug\net6.0\amolo.leave-management.domain.pdb

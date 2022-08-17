@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5fc18f3-3e58-4bd2-981a-fdb3c8896967": {
+      "ProjectGuid": "c5fc18f3-3e58-4bd2-981a-fdb3c8896967",
+      "DisplayName": "amolo.leave-management.domain",
+      "ColorIndex": 0
+    },
+    "7e842ed4-b8ad-41c4-ba6a-8c9ed2640769": {
+      "ProjectGuid": "7e842ed4-b8ad-41c4-ba6a-8c9ed2640769",
+      "DisplayName": "amolo.leave-management.application",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
